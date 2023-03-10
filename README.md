@@ -6,10 +6,10 @@
 
 
 
-### ASTERIX NINE STAR
-# Name > Miguel Arch
-# Years > 16
-# Country > Brazil
+# ASTERIX NINE STAR
+<p> Name > Miguel Arch </p>
+<p> Years > 16 </p>
+<p> Country > Brazil </p>
 
 
 PORTUGUESE
