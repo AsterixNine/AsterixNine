@@ -1,33 +1,33 @@
 <div>
 <a href="https://github.com/AsterixNine">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&langs_count=7&theme=rainbow"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=rainbow&include_all_commits=true&count_private=true"/>
 </div>
 
 
 
-#ASTERIX NINE STAR
+# ASTERIX NINE STAR
 
-    Name > Miguel Arch
-    Years > 16
-    Country > Brazil
+Name > Miguel Arch
+Years > 16
+Country > Brazil
 
-    PORTUGUESE
-    ENGLISH
-    GERMANY
-    RUSSIAN
+PORTUGUESE
+ENGLISH
+GERMANY
+RUSSIAN
 
-    <img src="https://icons8.com.br/icon/13441/python" width="40" height="40"/>
-    PYTHON
+<img src="https://icons8.com.br/icon/13441/python" width="40" height="40"/>
+PYTHON
   
-    RUBY
-    JAVA SCRIPT
-    JAVA ORACLE
-    C/C#/C++
-    HTML5
-    MARKDOWN
+RUBY
+JAVA SCRIPT
+JAVA ORACLE
+C/C#/C++
+HTML5
+MARKDOWN
 
-    CSS3
+CSS3
 
 
 
