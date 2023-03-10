@@ -8,31 +8,30 @@
 
 
 ### ASTERIX NINE STAR
-   # AbountMe:
+   # AbountMe
             Name > Miguel Arch
             Years > 16
             Country > Brazil
 
-   # Languages:
+   # Languages
             PORTUGUESE
             ENGLISH
             GERMANY
             RUSSIAN
 
-   # Programming Languages:
-        <div>
+   # Programming Languages
             <img src="https://icons8.com.br/icon/101379/python" PYTHON
-        </div>    
+       
             RUBY
             JAVA SCRIPT
             JAVA ORACLE
             C/C#/C++
 
-   # Markup Languages:
+   # Markup Languages
             HTML5
             MARKDOWN
 
-   # Styling Languages:
+   # Styling Languages
             CSS3
 
 
