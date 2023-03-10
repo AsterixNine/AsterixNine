@@ -20,7 +20,9 @@
             RUSSIAN
 
    # Programming Languages:
+        <div>
             <img src="https://icons8.com.br/icon/101379/python" PYTHON
+        </div>    
             RUBY
             JAVA SCRIPT
             JAVA ORACLE
