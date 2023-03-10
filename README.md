@@ -4,7 +4,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/AsterixNine/AsterixNine/blob/output/github-contribution-grid-snake.svg)
 
 
 ### ASTERIX NINE STAR
@@ -18,8 +17,8 @@
     GERMANY
     RUSSIAN
 
-
-    <img src="https://icons8.com.br/icon/101379/python" target="_blank"></a>PYTHON
+    <img src="https://icons8.com.br/icon/13441/python" width="40" height="40"/>
+    PYTHON
   
     RUBY
     JAVA SCRIPT
