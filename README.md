@@ -6,18 +6,18 @@
 
 
 
-# ASTERIX NINE STAR
+### ASTERIX NINE STAR
+# Name > Miguel Arch
+# Years > 16
+# Country > Brazil
 
-Name > Miguel Arch
-Years > 16
-Country > Brazil
 
 PORTUGUESE
 ENGLISH
 GERMANY
 RUSSIAN
 
-<img src="https://icons8.com.br/icon/13441/python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/256/python--v1.png" width="40" height="40"/>
 PYTHON
   
 RUBY
