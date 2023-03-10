@@ -6,7 +6,7 @@
 
 
 
-#ASTERIX NINE STAR
+# ASTERIX NINE STAR
 
     Name > Miguel Arch
     Years > 16
