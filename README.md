@@ -11,14 +11,15 @@
 -   Years > 16
 -   Country > Brazil
 
-# Languages
-
--    PORTUGUESE
--    ENGLISH
--    GERMANY
--    RUSSIAN
+Languages | Idiomas
+-------- | ---------
+PORTUGUESE | 🇧🇷
+ENGLISH | 🇺🇸
+GERMANY | 🇩🇪
+RUSSIAN | 🇷🇺
 
 Programming| Language
+---------- | ---------
    NAME    | Versions
 ---------- | ---------
  JavaOracle| 19.0.2
