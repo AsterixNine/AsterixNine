@@ -1,7 +1,7 @@
 <div>
 <a href="https://github.com/AsterixNine">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&langs_count=7&theme=dracula"/>
+<img height="100em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -11,27 +11,23 @@
     Years > 16
     Country > Brazil
 
-
+# Languages
     PORTUGUESE
     ENGLISH
     GERMANY
     RUSSIAN
 
+# Programming Language
+    PYTHON  
+    RUBY
+    JAVA SCRIPT
+    JAVA ORACLE
+    C/C#/C++
+    HTML5
+    MARKDOWN
 
-# PYTHON <img src="https://img.icons8.com/color/256/python--v1.png" width="40" height="35"/> 
-
-  
-RUBY
-JAVA SCRIPT
-JAVA ORACLE
-C/C#/C++
-HTML5
-MARKDOWN
-
-CSS3
-
-
-
+# Styling Language
+    CSS3
 
 
 <div>
