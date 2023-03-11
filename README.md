@@ -13,22 +13,28 @@
 
 # Languages
 
-- ![alt("https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e7-1f1f7.png")]     PORTUGUESE
+-    PORTUGUESE
 -    ENGLISH
 -    GERMANY
 -    RUSSIAN
 
-# Programming Language
--    PYTHON  
--    RUBY
--    JAVA SCRIPT
--    JAVA ORACLE
--    C/C#/C++
--    HTML5
--    MARKDOWN
+Programming | Language
+    NAME    | Versions
+----------- | ---------
+- JavaOracle| 19.0.2
+- JavaScript| ES1/ES6
+-  C/C#/C++ | N/A
+-   Python  | 3.10.0
+-   Ruby3   | 3.1.0
 
-# Styling Language
--    CSS3
+   Markup   | Language
+----------- | ---------
+-    HTML5  |    5
+-  MARKDOWN |   N/A
+
+    Styling | Language
+ ---------- | ----------
+-    CSS3   |    3
 
 
 <div>
