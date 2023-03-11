@@ -12,22 +12,22 @@
 -   Country > Brazil
 
 # Languages
-    PORTUGUESE
-    ENGLISH
-    GERMANY
-    RUSSIAN
+-    PORTUGUESE
+-    ENGLISH
+-    GERMANY
+-    RUSSIAN
 
 # Programming Language
-    PYTHON  
-    RUBY
-    JAVA SCRIPT
-    JAVA ORACLE
-    C/C#/C++
-    HTML5
-    MARKDOWN
+-    PYTHON  
+-    RUBY
+-    JAVA SCRIPT
+-    JAVA ORACLE
+-    C/C#/C++
+-    HTML5
+-    MARKDOWN
 
 # Styling Language
-    CSS3
+-    CSS3
 
 
 <div>
