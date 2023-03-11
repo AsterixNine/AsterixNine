@@ -7,9 +7,9 @@
 
 
 # ASTERIX NINE STAR
-###    Name > Miguel Arch
-###    Years > 16
-###    Country > Brazil
+-   Name > Miguel Arch
+-   Years > 16
+-   Country > Brazil
 
 # Languages
     PORTUGUESE
