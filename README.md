@@ -1,7 +1,7 @@
 <div>
 <a href="https://github.com/AsterixNine">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&langs_count=7&theme=rainbow"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=rainbow&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 
@@ -17,8 +17,9 @@
     GERMANY
     RUSSIAN
 
-<img src="https://img.icons8.com/color/256/python--v1.png" width="40" height="40"/> 
-# PYTHON
+
+# PYTHON <img src="https://img.icons8.com/color/256/python--v1.png" width="40" height="40"/> 
+
   
 RUBY
 JAVA SCRIPT
