@@ -12,7 +12,7 @@
 -   Country > Brazil
 
 # Languages
--    PORTUGUESE
+- <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/512px/1f1e7-1f1f7.png">    PORTUGUESE
 -    ENGLISH
 -    GERMANY
 -    RUSSIAN
