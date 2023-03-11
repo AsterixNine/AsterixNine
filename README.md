@@ -18,7 +18,7 @@
     RUSSIAN
 
 
-# PYTHON <img src="https://img.icons8.com/color/256/python--v1.png" width="40" height="40"/> 
+# PYTHON <img src="https://img.icons8.com/color/256/python--v1.png" width="40" height="35"/> 
 
   
 RUBY
