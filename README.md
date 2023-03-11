@@ -4,12 +4,7 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
 # ASTERIX NINE STAR
-##   Name > Miguel Arch
-##   Years > 16
-##   Country > Brazil
 
 Languages | Idiomas
 -------- | ---------
