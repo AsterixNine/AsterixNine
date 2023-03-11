@@ -18,8 +18,8 @@
 -    GERMANY
 -    RUSSIAN
 
-# Programming | Language
-#     NAME    | Versions
+Programming| Language
+   NAME    | Versions
 ---------- | ---------
  JavaOracle| 19.0.2
  JavaScript| ES1/ES6
@@ -27,12 +27,12 @@
    Python  | 3.10.0
    Ruby3   | 3.1.0
 
-#   Markup   | Language
+  Markup   | Language
 ---------- | ---------
     HTML5  |    5
   MARKDOWN |   N/A
 
-#    Styling | Language
+  Styling | Language
 --------- | ----------
    CSS3   |    3
 
