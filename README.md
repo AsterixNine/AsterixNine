@@ -16,7 +16,6 @@ RUSSIAN | 🇷🇺
 Programming| Language
 ---------- | ---------
    NAME    | Versions
----------- | ---------
  JavaOracle| 19.0.2
  JavaScript| ES1/ES6
   C/C#/C++ | N/A
