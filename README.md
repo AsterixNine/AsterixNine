@@ -29,8 +29,8 @@ Programming| Language
 
   Markup   | Language
 ---------- | ---------
-    HTML5  |    5
-  MARKDOWN |   N/A
+HTML5      |    5
+MARKDOWN   |   N/A
 
   Styling | Language
 --------- | ----------
