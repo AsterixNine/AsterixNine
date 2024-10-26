@@ -7,12 +7,6 @@
 
 # ASTERIX NINE STAR
 
-Languages | Idiomas
--------- | ---------
-PORTUGUESE | 🇧🇷
-ENGLISH | 🇺🇸
-GERMANY | 🇩🇪
-RUSSIAN | 🇷🇺
 
 Programming| Language
 ---------- | ---------
