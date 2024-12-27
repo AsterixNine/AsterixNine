@@ -1,139 +1,44 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    body {
-      font-family: 'Segoe UI', system-ui, sans-serif;
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-      background: #0d1117;
-      color: #c9d1d9;
-    }
+<div align="center">
 
-    .header {
-      text-align: center;
-      margin-bottom: 40px;
-      background: linear-gradient(45deg, #1f6feb, #238636);
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
+# 🌟 ASTERIX NINE STAR 🌟
 
-    .stats-container {
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      margin-bottom: 40px;
-    }
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/AsterixNine)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AsterixNine)
 
-    .languages-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      margin-bottom: 40px;
-    }
+</div>
 
-    .category-card {
-      background: #161b22;
-      border-radius: 10px;
-      padding: 20px;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      border: 1px solid #30363d;
-    }
+## 💻 Technologies & Tools
 
-    .category-card h2 {
-      color: #58a6ff;
-      margin-top: 0;
-      border-bottom: 2px solid #30363d;
-      padding-bottom: 10px;
-    }
+### Programming Languages
+| Language | Version |
+|----------|---------|
+| Java (Oracle) | ![Version](https://img.shields.io/badge/19.0.2-007396?style=flat&logo=java&logoColor=white) |
+| JavaScript | ![Version](https://img.shields.io/badge/ES6-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| C/C#/C++ | ![Version](https://img.shields.io/badge/Latest-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| Python | ![Version](https://img.shields.io/badge/3.10.0-3776AB?style=flat&logo=python&logoColor=white) |
+| Ruby | ![Version](https://img.shields.io/badge/3.1.0-CC342D?style=flat&logo=ruby&logoColor=white) |
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-    }
+### Web Technologies
+| Technology | Version |
+|------------|---------|
+| HTML | ![Version](https://img.shields.io/badge/5-E34F26?style=flat&logo=html5&logoColor=white) |
+| CSS | ![Version](https://img.shields.io/badge/3-1572B6?style=flat&logo=css3&logoColor=white) |
+| Markdown | ![Version](https://img.shields.io/badge/Latest-000000?style=flat&logo=markdown&logoColor=white) |
 
-    th, td {
-      padding: 12px;
-      text-align: left;
-      border-bottom: 1px solid #30363d;
-    }
+## 🌐 Connect With Me
 
-    th {
-      color: #58a6ff;
-    }
+<div align="center">
 
-    .social-links {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      margin-top: 40px;
-    }
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@asterixninestar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miguel.stap/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@AsterixNine)
 
-    .social-links a {
-      transition: transform 0.2s;
-    }
+</div>
 
-    .social-links a:hover {
-      transform: translateY(-3px);
-    }
+---
+<div align="center">
 
-    .animate-gradient {
-      background-size: 200% 200%;
-      animation: gradient 15s ease infinite;
-    }
+![Profile Views](https://komarev.com/ghpvc/?username=AsterixNine&color=blueviolet)
+[![GitHub followers](https://img.shields.io/github/followers/AsterixNine?style=social)](https://github.com/AsterixNine)
 
-    @keyframes gradient {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-  </style>
-</head>
-<body>
-  <div class="header animate-gradient">
-    <h1>🌟 ASTERIX NINE STAR 🌟</h1>
-  </div>
-
-  <div class="stats-container">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </div>
-
-  <div class="languages-grid">
-    <div class="category-card">
-      <h2>💻 Programming</h2>
-      <table>
-        <tr><th>Language</th><th>Version</th></tr>
-        <tr><td>Java (Oracle)</td><td>19.0.2</td></tr>
-        <tr><td>JavaScript</td><td>ES6</td></tr>
-        <tr><td>C/C#/C++</td><td>Latest</td></tr>
-        <tr><td>Python</td><td>3.10.0</td></tr>
-        <tr><td>Ruby</td><td>3.1.0</td></tr>
-      </table>
-    </div>
-
-    <div class="category-card">
-      <h2>🌐 Web Technologies</h2>
-      <table>
-        <tr><th>Technology</th><th>Version</th></tr>
-        <tr><td>HTML</td><td>5</td></tr>
-        <tr><td>CSS</td><td>3</td></tr>
-        <tr><td>Markdown</td><td>Latest</td></tr>
-      </table>
-    </div>
-  </div>
-
-  <div class="social-links">
-    <a href="https://www.youtube.com/@asterixninestar" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-    </a>
-    <a href="https://instagram.com/miguel.stap/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-    <a href="mailto:contato@AsterixNine">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </div>
-</body>
-</html>
+</div>
