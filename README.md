@@ -81,27 +81,6 @@ status: Always learning, always creating.
 ---
 
 <div align="center">
-
-### Connect
-
-<a href="https://www.youtube.com/@asterixninestar">
-  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="https://instagram.com/miguel.stap/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:contato@AsterixNine">
-  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://discord.gg/">
-  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<br><br>
-
-![Visitors](https://komarev.com/ghpvc/?username=AsterixNine&color=000000&style=for-the-badge&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/AsterixNine?style=for-the-badge&color=000000&labelColor=000000)
-
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=100&section=footer)
