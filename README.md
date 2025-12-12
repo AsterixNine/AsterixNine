@@ -1,5 +1,7 @@
 <div align="center">
+  
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a2e&height=200&section=header&text=ASTERIX%20NINE&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Transforming%20Ideas%20Into%20Code&descAlignY=75&descSize=18)
+
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Developer+%7C+Programmer+%7C+Creator" alt="Typing SVG" />
 </div>
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
