@@ -44,9 +44,7 @@ status: Always learning, always creating.
 </div>
 
 <div align="center">
-
-### Activity
-
+  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsterixNine&bg_color=000000&color=FFFFFF&line=FFFFFF&point=AAAAAA&area=true&area_color=1a1a1a&hide_border=true" width="95%"/>
 
 </div>
