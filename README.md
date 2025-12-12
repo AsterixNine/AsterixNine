@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Developer+%7C+Programmer+%7C+Creator" alt="Typing SVG" />
 </div>
+
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ### About Me
 
@@ -25,6 +26,7 @@ status: Always learning, always creating.
 <img src="https://skillicons.dev/icons?i=js,py,java,cpp,cs,ruby,html,css,git,vscode,github,mysql&perline=6&theme=dark" />
 </div>
 <div align="center">
+  
 ### GitHub Stats
 <table>
   <tr>
@@ -36,16 +38,15 @@ status: Always learning, always creating.
     </td>
   </tr>
 </table>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AsterixNine&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=AAAAAA&dates=666666" width="750"/>
 </div>
+
 <div align="center">
 ### Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsterixNine&bg_color=000000&color=FFFFFF&line=FFFFFF&point=AAAAAA&area=true&area_color=1a1a1a&hide_border=true" width="95%"/>
 
 </div>
-
-
----
 
 <div align="center">
 </div>
