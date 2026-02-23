@@ -1,55 +1,88 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:1a1a2e&height=200&section=header&text=ASTERIX%20NINE&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=Transforming%20Ideas%20Into%20Code&descAlignY=75&descSize=18)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=FFFFFF&center=true&vCenter=true&repeat=true&width=600&height=50&lines=Developer+%7C+Programmer+%7C+Creator" alt="Typing SVG" />
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d0d&height=2&section=header)
+
+```
+ ▄▄▄· .▄▄ · ▄▄▄▄▄▄▄▄ .▄▄▄  ▪  ▐▄• ▄     ▐ ▄ ▪   ▐ ▄ ▄▄▄ .
+▐█ ▀█ ▐█ ▀. •██  ▀▄.▀·▀▄ █·██  █▌█▌▪    •█▌▐███ •█▌▐█▀▄.▀·
+▄█▀▀█ ▄▀▀▀█▄ ▐█.▪▐▀▀▪▄▐▀▀▄ ▐█·  ·██·     ▐█▐▐▌▐█·▐█▐▐▌▐▀▀▪▄
+▐█ ▪▐▌▐█▄▪▐█ ▐█▌·▐█▄▄▌▐█•█▌▐█▌▪▐█·█▌    ██▐█▌▐█▌██▐█▌▐█▄▄▌
+ ▀  ▀  ▀▀▀▀  ▀▀▀  ▀▀▀ .▀  ▀▀▀▀▀▀▀ █▀    ▀▀ █▪▀▀▀▀▀ █▪ ▀▀▀ 
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=800&color=666666&center=true&vCenter=true&repeat=true&width=500&height=30&lines=Developer+%2F+Programmer+%2F+Creator;Building+from+Brazil+%F0%9F%87%A7%F0%9F%87%B7;Always+learning%2C+always+creating." alt="Typing SVG" />
+
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-### About Me
+<br>
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```yaml
-name: Asterix Nine
-location: Brazil
-focus: Building Projects
+# asterix_nine.yml
 
-skills:
-  languages: [JavaScript, Python, Java, C++, Ruby]
+identity:
+  name: "Asterix Nine"
+  location: "Brazil 🇧🇷"
+  role: "Developer & Creator"
+
+stack:
+  languages: [JS, Python, Java, C++, Ruby]
   web: [HTML, CSS]
-  tools: [VS Code, Git, GitHub]
+  tools: [VS Code, Git, GitHub, MySQL]
 
-status: Always learning, always creating.
+philosophy: >
+  Clean code. Sharp thinking.
+  Always building, never stopping.
 ```
+
 <br clear="right"/>
+
+---
+
 <div align="center">
 
-### Tech Stack
+### `~/tech-stack`
+
+<br>
+
 <img src="https://skillicons.dev/icons?i=js,py,java,cpp,cs,ruby,html,css,git,vscode,github,mysql&perline=6&theme=dark" />
+
 </div>
+
+---
+
 <div align="center">
-  
-### GitHub Stats
+
+### `~/github-stats`
+
+<br>
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=AAAAAA&count_private=true" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=AsterixNine&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FFFFFF&icon_color=555555&text_color=888888&count_private=true&hide_title=true" width="390"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=AAAAAA" width="340"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsterixNine&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FFFFFF&text_color=888888&hide_title=true" width="330"/>
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AsterixNine&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=AAAAAA&dates=666666" width="750"/>
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AsterixNine&hide_border=true&background=0d0d0d&stroke=1a1a1a&ring=444444&fire=FFFFFF&currStreakLabel=888888&sideLabels=444444&currStreakNum=FFFFFF&sideNums=666666&dates=333333" width="700"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsterixNine&bg_color=0d0d0d&color=555555&line=444444&point=FFFFFF&area=true&area_color=1a1a1a&hide_border=true" width="92%"/>
+
 </div>
+
+---
 
 <div align="center">
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AsterixNine&bg_color=000000&color=FFFFFF&line=FFFFFF&point=AAAAAA&area=true&area_color=1a1a1a&hide_border=true" width="95%"/>
-
+<sub>⬛ built in the dark · shipped with intent</sub>
 </div>
 
-<div align="center">
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:000000&height=1&section=footer)
