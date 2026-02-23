@@ -1,18 +1,5 @@
 <div align="center">
 
-<br>
-
-```
- ██████╗ ███████╗
-██╔═══██╗╚════██║
-╚█████╔╝     ██╔╝  ASTERIX NINE
- ╚═══██╗    ██╔╝   ────────────────────────────
-██████╔╝    ██║    dev · builder · creator
-╚═════╝     ╚═╝    brazil
-```
-
-<br>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=404040&center=true&vCenter=true&width=440&lines=%24+whoami+%E2%86%92+developer;%24+locate+passion+%E2%86%92+%2Fcode%2Fcreate%2Frepeat;%24+status+%E2%86%92+always+building)](https://git.io/typing-svg)
 
 </div>
